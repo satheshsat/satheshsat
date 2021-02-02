@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+
+Hey there, I'm Sathesh! I am a Software Engineer passionate about building next generation web and mobile applications. I deeply care about accessibility and performance when building products.
 
 <!--
 **satheshsat/satheshsat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
