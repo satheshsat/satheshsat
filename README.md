@@ -1,6 +1,6 @@
 # Hi there 👋 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/satheshsat)
 
-Hey there, I'm Sathesh! I am a Software Engineer passionate about building next generation web and mobile applications. I deeply care about accessibility and performance when building products.
+Hey there, I'm Sathesh! I am a Software Engineer passionate about building next generation web and mobile applications. I deeply care about accessibility and performance when building products. [My Resume](https://docs.google.com/document/d/1rgM2CY_cG0Cx1Iqys8K9LZ1-d7Yjbmw0/edit)
 
 <!--
 **satheshsat/satheshsat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
